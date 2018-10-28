@@ -1,0 +1,3 @@
+(in-ns 'server.session)
+(next-session-id)
+exit
